@@ -1,7 +1,7 @@
 # repo000
 one small step
 
-## Editing the file... 
+## Slingshooting a first repo page... 
 
 
-done!
+shoots!
